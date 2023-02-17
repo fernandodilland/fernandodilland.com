@@ -1,4 +1,4 @@
-## Instrucciones para implementar el programa
+## Instrucciones y requisitos
 Para implementar el programa se requiere lo siguiente:
 
 - Programa Laragon o Xampp (Windows) o cualquier programa para ejecutar Wordpress localmente, con acceso de preferencia al phpMyAdmin.
@@ -14,7 +14,7 @@ Una vez que se hayan exportado los archivos offline, se puede implementar la pá
 - Seleccione un dominio personalizado en Cloudflare Pages y tenga el dominio previamente registrado en Cloudflare para que la configuración se realice de manera automática.
 - Suba los archivos exportados (archivos offline) a la plataforma que haya seleccionado en el paso anterior.
 
-## Instructions to implement the program
+## Instructions and Requirements
 To implement the program, the following is required:
 
 - Laragon or Xampp program (Windows) or any program to run WordPress locally, preferably with access to phpMyAdmin.
